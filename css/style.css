@@ -1,0 +1,14 @@
+#container{
+	width:500px;
+	height:300px;
+	background:#dddddd;
+}
+path{
+	fill:none;
+	stroke:teal;
+	stroke-width: 2;
+}
+g.domain line,g.tick line{
+	stroke:gray;
+	stroke-width:1;
+}
